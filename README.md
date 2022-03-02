@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [How To Use](#how-to-use)
 
-## Introduciton
+## Introductoin
 Sudo solver using CSP (Constraint Satisfaction Problem)
 
 ## Technologies
