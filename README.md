@@ -1,4 +1,4 @@
-# sudoku_csp
+# Sudoku CSP
 
 ## Table of contents
 * [Introduction](#introduction)
